@@ -1,0 +1,19 @@
+{   
+   "name": "sword-saint-class",   
+   "title": "The Sword Saint",   
+   "description": "The Sword Saint class with subclasses",   
+   "author": "yanbow",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"10.291",
+   "packs": [
+    {
+      "name": "class-items",
+      "label": "Class Items",
+      "path": "packs/items.db",
+      "entity": "Item",
+      "system": "dnd5e",
+      "module": "sword-saint-class"
+    }
+   ]
+ }
