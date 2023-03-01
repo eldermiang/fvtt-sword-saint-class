@@ -10,8 +10,8 @@
    },
    "packs": [
     {
-      "name": "class-items",
-      "label": "Class Items",
+      "name": "sword-saint-class-items",
+      "label": "The Sword Saint",
       "path": "packs/items.db",
       "entity": "Item",
       "system": "dnd5e",
