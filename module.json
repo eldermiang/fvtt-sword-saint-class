@@ -3,7 +3,7 @@
    "title": "The Sword Saint",   
    "description": "The Sword Saint class with subclasses",   
    "author": "yanbow",
-   "version": "0.2",
+   "version": "0.4",
    "compatibility": {
       "minimum": "9",
       "verified": "10"  
